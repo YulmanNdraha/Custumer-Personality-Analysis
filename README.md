@@ -61,8 +61,8 @@ Proyek ini bertujuan untuk menganalisis data pelanggan dari campaign marketing g
 
 ## 📁 Struktur Folder
 
-- `Repair.pdf` – Notebook analisis (versi PDF)
-- `Blue Modern Elegant Presentation.pptx` – Presentasi hasil analisis
+- `Project_2.ipynb-colab.pdf` – Notebook analisis (versi PDF)
+- `Project_2.pptx` – (versi pdf)
 
 ---
 
